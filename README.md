@@ -58,6 +58,7 @@ An interactive browser-based mini-game that demonstrates DOM manipulation, CSS s
   ```bash
   start index.html    # Windows
   open index.html     # macOS
+  ```
 
 ## 💡 Future Enhancements
 
